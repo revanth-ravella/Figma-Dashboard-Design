@@ -22,5 +22,5 @@
     </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![image alt](https://github.com/revanth-ravella/recipe-book-app/blob/be2f2c05e371329e5bea2ffd6af2ccdab7170839/img-1.png)
+![image alt](https://github.com/revanth-ravella/Figma-Dashboard-Design/blob/693fe269939d275a8b5bdb6bb2b6f5d447183b15/img-4.png)
 
